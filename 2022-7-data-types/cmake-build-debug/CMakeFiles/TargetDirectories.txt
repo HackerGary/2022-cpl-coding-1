@@ -1,0 +1,9 @@
+D:/CODES/CPL/2022-cpl-coding-1/lesson8-homework/cmake-build-debug/CMakeFiles/wine.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson8-homework/cmake-build-debug/CMakeFiles/cuboid.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson8-homework/cmake-build-debug/CMakeFiles/pour.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson8-homework/cmake-build-debug/CMakeFiles/rotate.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson8-homework/cmake-build-debug/CMakeFiles/brackets.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson8-homework/cmake-build-debug/CMakeFiles/stack.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson8-homework/cmake-build-debug/CMakeFiles/buddy.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson8-homework/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson8-homework/cmake-build-debug/CMakeFiles/rebuild_cache.dir

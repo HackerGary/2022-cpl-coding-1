@@ -1,0 +1,8 @@
+D:/CODES/CPL/2022-cpl-coding-1/lesson6-homework/cmake-build-debug/CMakeFiles/behaviors.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson6-homework/cmake-build-debug/CMakeFiles/sum.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson6-homework/cmake-build-debug/CMakeFiles/absolute_prime.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson6-homework/cmake-build-debug/CMakeFiles/radix.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson6-homework/cmake-build-debug/CMakeFiles/next-permutation.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson6-homework/cmake-build-debug/CMakeFiles/magic-square.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson6-homework/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson6-homework/cmake-build-debug/CMakeFiles/rebuild_cache.dir

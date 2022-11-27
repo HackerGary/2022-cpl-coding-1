@@ -1,0 +1,11 @@
+D:/CODES/CPL/2022-cpl-coding-1/lesson7-homework/cmake-build-debug/CMakeFiles/pascal.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson7-homework/cmake-build-debug/CMakeFiles/tiles.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson7-homework/cmake-build-debug/CMakeFiles/poi.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson7-homework/cmake-build-debug/CMakeFiles/poi-non-re.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson7-homework/cmake-build-debug/CMakeFiles/max-non-re.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson7-homework/cmake-build-debug/CMakeFiles/max.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson7-homework/cmake-build-debug/CMakeFiles/integration.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson7-homework/cmake-build-debug/CMakeFiles/triangle.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson7-homework/cmake-build-debug/CMakeFiles/integration_remake.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson7-homework/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson7-homework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
