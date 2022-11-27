@@ -1,0 +1,11 @@
+D:/CODES/CPL/2022-cpl-coding-1/lesson4-homework/cmake-build-debug/CMakeFiles/flip.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson4-homework/cmake-build-debug/CMakeFiles/statistics.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson4-homework/cmake-build-debug/CMakeFiles/josephus.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson4-homework/cmake-build-debug/CMakeFiles/decimal.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson4-homework/cmake-build-debug/CMakeFiles/palindrome.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson4-homework/cmake-build-debug/CMakeFiles/Quick-sort.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson4-homework/cmake-build-debug/CMakeFiles/debug_statistics.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson4-homework/cmake-build-debug/CMakeFiles/Quick-sort-v2.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson4-homework/cmake-build-debug/CMakeFiles/quick-sort-full.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson4-homework/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson4-homework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
