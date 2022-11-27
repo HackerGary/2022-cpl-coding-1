@@ -1,0 +1,8 @@
+D:/CODES/CPL/2022-cpl-coding-1/lesson5-homework/cmake-build-debug/CMakeFiles/sudoku.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson5-homework/cmake-build-debug/CMakeFiles/mine.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson5-homework/cmake-build-debug/CMakeFiles/trace.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson5-homework/cmake-build-debug/CMakeFiles/matrix-mult.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson5-homework/cmake-build-debug/CMakeFiles/life-one-dimension.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson5-homework/cmake-build-debug/CMakeFiles/life.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson5-homework/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson5-homework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
