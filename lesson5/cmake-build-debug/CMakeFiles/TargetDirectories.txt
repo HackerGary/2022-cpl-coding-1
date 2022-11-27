@@ -1,0 +1,5 @@
+D:/CODES/CPL/2022-cpl-coding-1/lesson5/cmake-build-debug/CMakeFiles/game-of-life.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson5/cmake-build-debug/CMakeFiles/merge.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson5/cmake-build-debug/CMakeFiles/bubble-sort.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson5/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
