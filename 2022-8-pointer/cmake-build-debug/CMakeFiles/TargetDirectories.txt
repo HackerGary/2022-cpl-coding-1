@@ -1,0 +1,5 @@
+D:/CODES/CPL/2022-cpl-coding-1/lesson9-homework/cmake-build-debug/CMakeFiles/interpreter.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson9-homework/cmake-build-debug/CMakeFiles/substr.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson9-homework/cmake-build-debug/CMakeFiles/title.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson9-homework/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/CODES/CPL/2022-cpl-coding-1/lesson9-homework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
